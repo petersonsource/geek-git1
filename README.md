@@ -43,7 +43,9 @@ Se possível forneça as informações para diferentes plataformas, exemplo wind
 ## meta
 
 Seu nome = [@seutwitter](https://twitter.com) - seuemail@gmail.com
+
 distribuido sobre a licença. Veja `LICENÇA` para maiores informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
 
 
